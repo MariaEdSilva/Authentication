@@ -1,0 +1,25 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaEdSilva/Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MariaEdSilva/Authentication/issues"
+  },
+  "homepage": "https://github.com/MariaEdSilva/Authentication#readme",
+  "dependencies": {
+    "expo": "^56.0.4",
+    "expo-local-authentication": "~56.0.4"
+  }
+}
